@@ -51,5 +51,9 @@ layout: compress
 <!-- MathJax -->
 <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 {% endif %}
+{% if site.flowchart == true%}
+<script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.0/raphael-min.js"></script>
+<script src="http://flowchart.js.org/flowchart-latest.js"></script>
+{% endif %}
 </body>
 </html>
