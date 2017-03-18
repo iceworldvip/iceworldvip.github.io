@@ -42,14 +42,14 @@ layout: compress
                 {% include meta.html %}
             </div>
         </div>
-        {% if page.comments and site.disqus_shortname %}
-        <!--<section id="disqus_thread" class="animated fadeInUp"></section>&lt;!&ndash; /#disqus_thread &ndash;&gt;-->
-        <!-- UY BEGIN -->
-        <div id="uyan_frame"></div>
-        <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2127651"></script>
-        <!-- UY END -->
-        {% endif %}
     </div>
+    {% if page.comments and site.disqus_shortname %}
+    <!--<section id="disqus_thread" class="animated fadeInUp"></section>&lt;!&ndash; /#disqus_thread &ndash;&gt;-->
+    <!-- UY BEGIN -->
+    <div id="uyan_frame"></div>
+    <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2127651"></script>
+    <!-- UY END -->
+    {% endif %}
 </header>
 {% include scripts.html %}
 {% if site.mathjax == true %}
