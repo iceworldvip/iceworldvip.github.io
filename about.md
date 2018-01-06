@@ -1,6 +1,6 @@
 ---
-layout: personal
-title: About
+layout: page
+title: 关于
 permalink: /about/
 ---
 作为一名程序员，周而复始忙地碌着。总是感觉自己除了疲劳没有剩下什么东西，所以自己总有那种莫名的冲动，想留下点什么给别人。
