@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to my blog!"
 date:   2018-01-06 20:28:19 +0800
 categories: personal
-published: true
+published: false
 ---
 作为一名程序员，周而复始忙地碌着。总是感觉自己除了疲劳没有剩下什么东西，所以自己总有那种莫名的冲动，想留下点什么给别人。
 自己的目的也确实简单，一方面可以总结自己认为重要的东西，一方面这些东西兴许会给小伙伴们一些帮助。

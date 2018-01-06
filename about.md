@@ -1,18 +1,13 @@
 ---
-layout: page
+layout: personal
 title: About
 permalink: /about/
 ---
+作为一名程序员，周而复始忙地碌着。总是感觉自己除了疲劳没有剩下什么东西，所以自己总有那种莫名的冲动，想留下点什么给别人。
+自己的目的也确实简单，一方面可以总结自己认为重要的东西，一方面这些东西兴许会给小伙伴们一些帮助。
+其实写博客已经有很长时间的规划了，而且之前也是有写过一些博客，但是没有什么坚持的动力和毅力，所以这些小目标都无疾而终。
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+最近发现自己的记忆力大不如前，而且好多内容是经验，如果不分享出来的话，就会在今后的生活中消失了。
+所以为了让自己有可以有个记录的地方，也是为了让自己可以帮助到更多的小伙伴。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+那么从今天起就开启我的博客之路了。
